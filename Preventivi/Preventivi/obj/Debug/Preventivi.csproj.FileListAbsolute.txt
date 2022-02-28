@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\Preventivi\Preventivi\bin\Debug\Preventivi.exe.config
+C:\Users\tryit\source\repos\Preventivi\Preventivi\bin\Debug\Preventivi.exe
+C:\Users\tryit\source\repos\Preventivi\Preventivi\bin\Debug\Preventivi.pdb
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.Form1.resources
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.Properties.Resources.resources
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.exe
+C:\Users\tryit\source\repos\Preventivi\Preventivi\obj\Debug\Preventivi.pdb

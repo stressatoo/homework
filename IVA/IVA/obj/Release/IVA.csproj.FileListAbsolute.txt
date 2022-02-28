@@ -1,0 +1,9 @@
+C:\Users\tryit\source\repos\IVA\IVA\bin\Release\IVA.exe.config
+C:\Users\tryit\source\repos\IVA\IVA\bin\Release\IVA.exe
+C:\Users\tryit\source\repos\IVA\IVA\bin\Release\IVA.pdb
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.IVA.resources
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.Properties.Resources.resources
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.exe
+C:\Users\tryit\source\repos\IVA\IVA\obj\Release\IVA.pdb

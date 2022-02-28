@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\bin\Debug\Costo per fotocopie.exe.config
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\bin\Debug\Costo per fotocopie.exe
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\bin\Debug\Costo per fotocopie.pdb
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo per fotocopie.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo_per_fotocopie.Form1.resources
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo_per_fotocopie.Properties.Resources.resources
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo per fotocopie.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo per fotocopie.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo per fotocopie.exe
+C:\Users\tryit\source\repos\Costo per fotocopie\Costo per fotocopie\obj\Debug\Costo per fotocopie.pdb
