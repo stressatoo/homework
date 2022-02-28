@@ -1,0 +1,9 @@
+C:\Users\tryit\source\repos\calc\calc\bin\Release\calc.exe.config
+C:\Users\tryit\source\repos\calc\calc\bin\Release\calc.exe
+C:\Users\tryit\source\repos\calc\calc\bin\Release\calc.pdb
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.Form1.resources
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.Properties.Resources.resources
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.exe
+C:\Users\tryit\source\repos\calc\calc\obj\Release\calc.pdb

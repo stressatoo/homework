@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\bin\Debug\media_di_3_voti.exe.config
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\bin\Debug\media_di_3_voti.exe
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\bin\Debug\media_di_3_voti.pdb
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.Form1.resources
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.Properties.Resources.resources
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.exe
+C:\Users\tryit\source\repos\media_di_3_voti\media_di_3_voti\obj\Debug\media_di_3_voti.pdb
