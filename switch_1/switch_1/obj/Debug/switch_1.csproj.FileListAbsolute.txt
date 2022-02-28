@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\switch_1\switch_1\bin\Debug\switch_1.exe.config
+C:\Users\tryit\source\repos\switch_1\switch_1\bin\Debug\switch_1.exe
+C:\Users\tryit\source\repos\switch_1\switch_1\bin\Debug\switch_1.pdb
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.Form1.resources
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.Properties.Resources.resources
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.exe
+C:\Users\tryit\source\repos\switch_1\switch_1\obj\Debug\switch_1.pdb
