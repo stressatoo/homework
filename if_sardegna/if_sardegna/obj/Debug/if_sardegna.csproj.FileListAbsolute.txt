@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\bin\Debug\if_sardegna.exe.config
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\bin\Debug\if_sardegna.exe
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\bin\Debug\if_sardegna.pdb
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.Form1.resources
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.Properties.Resources.resources
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.exe
+C:\Users\tryit\source\repos\if_sardegna\if_sardegna\obj\Debug\if_sardegna.pdb

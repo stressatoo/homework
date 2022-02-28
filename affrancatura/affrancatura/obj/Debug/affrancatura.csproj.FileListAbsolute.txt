@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\affrancatura\affrancatura\bin\Debug\affrancatura.exe.config
+C:\Users\tryit\source\repos\affrancatura\affrancatura\bin\Debug\affrancatura.exe
+C:\Users\tryit\source\repos\affrancatura\affrancatura\bin\Debug\affrancatura.pdb
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.Form1.resources
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.Properties.Resources.resources
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.exe
+C:\Users\tryit\source\repos\affrancatura\affrancatura\obj\Debug\affrancatura.pdb

@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\bin\Debug\BorsaDiStudio.exe.config
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\bin\Debug\BorsaDiStudio.exe
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\bin\Debug\BorsaDiStudio.pdb
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.Form1.resources
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.Properties.Resources.resources
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.exe
+C:\Users\tryit\source\repos\BorsaDiStudio\BorsaDiStudio\obj\Debug\BorsaDiStudio.pdb

@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\bin\Debug\compagnia_aerea.exe.config
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\bin\Debug\compagnia_aerea.exe
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\bin\Debug\compagnia_aerea.pdb
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.Form1.resources
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.Properties.Resources.resources
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.exe
+C:\Users\tryit\source\repos\compagnia_aerea\compagnia_aerea\obj\Debug\compagnia_aerea.pdb
