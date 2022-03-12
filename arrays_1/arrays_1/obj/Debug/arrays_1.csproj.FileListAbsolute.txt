@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.Form1.resources
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.Properties.Resources.resources
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\arrays_1\arrays_1\bin\Debug\arrays_1.exe.config
+C:\Users\tryit\source\repos\arrays_1\arrays_1\bin\Debug\arrays_1.exe
+C:\Users\tryit\source\repos\arrays_1\arrays_1\bin\Debug\arrays_1.pdb
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.exe
+C:\Users\tryit\source\repos\arrays_1\arrays_1\obj\Debug\arrays_1.pdb
