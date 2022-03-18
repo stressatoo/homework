@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.Form1.resources
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.Properties.Resources.resources
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\bin\Debug\for_ib_14mar.exe.config
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\bin\Debug\for_ib_14mar.exe
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\bin\Debug\for_ib_14mar.pdb
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.exe
+C:\Users\tryit\source\repos\for_ib_14mar\for_ib_14mar\obj\Debug\for_ib_14mar.pdb
