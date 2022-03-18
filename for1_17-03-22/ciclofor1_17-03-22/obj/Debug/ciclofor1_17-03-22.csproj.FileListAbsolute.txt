@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17_03_22.Form1.resources
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17_03_22.Properties.Resources.resources
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\bin\Debug\ciclofor1_17-03-22.exe.config
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\bin\Debug\ciclofor1_17-03-22.exe
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\bin\Debug\ciclofor1_17-03-22.pdb
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.exe
+C:\Users\tryit\source\repos\ciclofor1_17-03-22\ciclofor1_17-03-22\obj\Debug\ciclofor1_17-03-22.pdb

@@ -1,0 +1,10 @@
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\bin\Debug\for2_17-03-22.exe.config
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\bin\Debug\for2_17-03-22.exe
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\bin\Debug\for2_17-03-22.pdb
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17-03-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17_03_22.Form1.resources
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17_03_22.Properties.Resources.resources
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17-03-22.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17-03-22.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17-03-22.exe
+C:\Users\tryit\source\repos\for2_17-03-22\for2_17-03-22\obj\Debug\for2_17-03-22.pdb
