@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\bin\Debug\es2_5esercizi.exe.config
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\bin\Debug\es2_5esercizi.exe
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\bin\Debug\es2_5esercizi.pdb
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.Form1.resources
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.Properties.Resources.resources
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.exe
+C:\Users\tryit\source\repos\es2_5esercizi\es2_5esercizi\obj\Debug\es2_5esercizi.pdb
