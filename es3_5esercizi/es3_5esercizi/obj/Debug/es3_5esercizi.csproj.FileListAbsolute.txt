@@ -1,0 +1,10 @@
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\bin\Debug\es3_5esercizi.exe.config
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\bin\Debug\es3_5esercizi.exe
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\bin\Debug\es3_5esercizi.pdb
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.csprojAssemblyReference.cache
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.Form1.resources
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.Properties.Resources.resources
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.csproj.GenerateResource.cache
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.csproj.CoreCompileInputs.cache
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.exe
+C:\Users\3BP\Desktop\repos\es3_5esercizi\es3_5esercizi\obj\Debug\es3_5esercizi.pdb
