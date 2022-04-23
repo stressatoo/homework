@@ -21,6 +21,7 @@ namespace @while
         {
             float numero;
             bool checkato;
+			int contatore; // ecco lol
             
             numero = Convert.ToSingle(txtNum.Text);
             checkato = chkDoWhile.Checked;
@@ -29,18 +30,10 @@ namespace @while
             {
                 do
                 {
-                    lstOutput.Items.Add(numero);
-                    numero++;
-                } 
-                while (numero <= 100);
-            }
-            else
-            {
-                while (numero <= 100)            // Aggiunge 
-                {                                // "numero"
-                    lstOutput.Items.Add(numero); // 100 volte
-                    numero++;
-                }
+                    lstOutput.Items.Add(numero); 	// esegue
+                    contatore++;             		// l'output
+                } 							 		// "numero"
+                while (contatore <= numero); 		// volte
             }
         }
     }
