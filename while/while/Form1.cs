@@ -32,7 +32,7 @@ namespace @while
                 {
                     lstOutput.Items.Add(numero); 	// esegue
                     contatore++;             		// l'output
-                } 							 		// "numero"
+                } 					// "numero"
                 while (contatore <= numero); 		// volte
             }
         }
