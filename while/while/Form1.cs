@@ -21,7 +21,7 @@ namespace @while
         {
             float numero;
             bool checkato;
-			int contatore; // ecco lol
+	    int contatore; // ecco lol
             
             numero = Convert.ToSingle(txtNum.Text);
             checkato = chkDoWhile.Checked;
