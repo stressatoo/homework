@@ -6,5 +6,5 @@ Per adesso, include solo C# e la sua integrazione con WinForms.
 
 # English
 
-In this repo you will find every very single exercise I made in the last years and counting.  
+In this repo you'll find every single exercise I made in the last years and counting.  
 It currently includes only C# and its integration with WinForms. (Yeah, I don't know XML so I can't use WPF)
