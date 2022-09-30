@@ -22,7 +22,7 @@ namespace pedaggi
         {
             const float euroPerKm = 0.2F;
             
-            string fineTurno = "no";
+            string fineTurno;
 
             string targa;
             string cdp; // città di partenza
