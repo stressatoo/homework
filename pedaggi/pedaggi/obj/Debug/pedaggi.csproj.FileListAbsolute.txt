@@ -1,0 +1,11 @@
+C:\Users\tryit\source\repos\pedaggi\pedaggi\bin\Debug\pedaggi.exe.config
+C:\Users\tryit\source\repos\pedaggi\pedaggi\bin\Debug\pedaggi.exe
+C:\Users\tryit\source\repos\pedaggi\pedaggi\bin\Debug\pedaggi.pdb
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.csproj.AssemblyReference.cache
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.Form1.resources
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.Properties.Resources.resources
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.csproj.GenerateResource.cache
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.csproj.CoreCompileInputs.cache
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.exe
+C:\Users\tryit\source\repos\pedaggi\pedaggi\obj\Debug\pedaggi.pdb
